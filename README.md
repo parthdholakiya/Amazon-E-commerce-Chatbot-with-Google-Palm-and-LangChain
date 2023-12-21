@@ -43,8 +43,6 @@ To run the chatbot locally, follow these steps:
     streamlit run app.py
     ```
 
-4. Open your browser and go to [http://localhost:8501](http://localhost:8501) to interact with the chatbot.
-
 ## Usage
 
 1. Click the "Create Knowledgebase" button to initialize the vector database.
